@@ -73,3 +73,4 @@ Estas decisiones aplican permanentemente hasta que Gerencia las modifique:
 - P4: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_P4.md
 **Pendiente:** subir BOOTs a GitHub + cargar MDs de cada director en sus carpetas.
 **Estado:** ✅ Sistema operativo
+### 12/05/2026 - GERENCIA (cierre noche)
