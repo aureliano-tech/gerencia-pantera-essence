@@ -63,3 +63,13 @@ Estas decisiones aplican permanentemente hasta que Gerencia las modifique:
 **Resultado:** Claude escribe directo a GitHub sin que Aureliano descargue nada.
 **Afecta a:** Todas las direcciones
 **Estado:** ✅ Sistema 100% operativo
+### 12/05/2026 — GERENCIA (cierre final del dia)
+**Qué se hizo:** GitHub operativo. Script Python API directa. 5 BOOTs creados. Sistema completo de 5 direcciones con flujo de cierre y apertura de sesion funcionando.
+**URLs BOOT:**
+- Gerencia: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_GERENCIA.md
+- P1: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_P1.md
+- P2: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_P2.md
+- P3: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_P3.md
+- P4: https://raw.githubusercontent.com/aureliano-tech/gerencia-pantera-essence/main/BOOT_P4.md
+**Pendiente:** subir BOOTs a GitHub + cargar MDs de cada director en sus carpetas.
+**Estado:** ✅ Sistema operativo
