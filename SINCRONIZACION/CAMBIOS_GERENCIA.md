@@ -57,3 +57,9 @@ Estas decisiones aplican permanentemente hasta que Gerencia las modifique:
 - P1: esperar ticket formal de P4
 **Estado:** ⬜ En ejecución
 
+
+### 12/05/2026 — GERENCIA (prueba sistema)
+**Qué se hizo:** Script Python de sincronización directa con GitHub API probado.
+**Resultado:** Claude escribe directo a GitHub sin que Aureliano descargue nada.
+**Afecta a:** Todas las direcciones
+**Estado:** ✅ Sistema 100% operativo
