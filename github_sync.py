@@ -1,11 +1,12 @@
 ﻿import sys
+import os
 import base64
 import urllib.request
 import urllib.parse
 import json
 from datetime import datetime
 
-TOKEN = "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"
+TOKEN = os.environ.get("GITHUB_TOKEN_GERENCIA")
 REPO = "aureliano-tech/gerencia-pantera-essence"
 API = "https://api.github.com"
 
